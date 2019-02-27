@@ -21,7 +21,7 @@
 	- <span style="color:red">List operation is a popular `interview question`</span> and some of them can be easily solve by scala's functional language features, [Sort List](https://leetcode.com/problems/sort-list/), [Linked List](https://leetcode.com/tag/linked-list/).  
 	 
 - ObjectSample: Scala objects and the comparsion with Java
-	- Related Readings: [singleton object](https://docs.scala-lang.org/tour/singleton-objects.html),[Scala Classes](https://docs.scala-lang.org/tour/classes.html), [Compose a class](https://docs.scala-lang.org/tour/mixin-class-composition.html), [Traits](https://docs.scala-lang.org/tour/traits.html), [Case classes](https://docs.scala-lang.org/tour/case-classes.html), [Extractor object](https://docs.scala-lang.org/tour/extractor-objects.html), [Generic classes](https://docs.scala-lang.org/tour/generic-classes.html)
+	- Related Readings: [Singleton Object](https://docs.scala-lang.org/tour/singleton-objects.html),[Scala Classes](https://docs.scala-lang.org/tour/classes.html), [Compose a class](https://docs.scala-lang.org/tour/mixin-class-composition.html), [Traits](https://docs.scala-lang.org/tour/traits.html), [Case classes](https://docs.scala-lang.org/tour/case-classes.html), [Extractor object](https://docs.scala-lang.org/tour/extractor-objects.html), [Generic classes](https://docs.scala-lang.org/tour/generic-classes.html)
 
 - ObjectSort:  Combine objects with lists. 
 	- Related Readings: [Expressing Sequence Comprehensions](https://docs.scala-lang.org/tour/for-comprehensions.html)
@@ -31,6 +31,6 @@
 	- <span style="color:red">Pattern matching is a very popular type of `interview questions`</span>, [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/), [Word Pattern](https://leetcode.com/problems/word-pattern/), [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) 
 
 - UpperCase: Lower case to upper case by using Scala Map.
-	- Related Reading: [Map](https://docs.scala-lang.org/overviews/collections/maps.html), [Scala Map](https://www.tutorialspoint.com/scala/scala_maps.htm),  
+	- Related Reading: [Map](https://docs.scala-lang.org/overviews/collections/maps.html), [Scala Map](https://www.tutorialspoint.com/scala/scala_maps.htm). 
 
 ---
